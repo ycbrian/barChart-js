@@ -3,11 +3,11 @@
  * bar.js
  * simple, elegant bar chart library
  * March 5th,2020 - version 1.0
- * {url}
+ * https://github.com/ycbrian/barChart-js
  *
- * Copyright 2017 Yi Chen
+ * Copyright 2020 Yi Chen <brian19931009@gmail.com>
  * Released under the MIT License
- * {license url}
+ * https://github.com/ycbrian/barChart-js/blob/master/LICENSE.md
  *
  */
 
