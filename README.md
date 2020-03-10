@@ -1,8 +1,8 @@
 # barChart-js
 A simple open source, lightweight bar chart library in Javascript 
 
-![APM](https://img.shields.io/apm/l/vim-mode)
-![Codacy branch grade](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686/master)
+[![APM](https://img.shields.io/apm/l/vim-mode)]()
+[![Codacy branch grade](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686/master)]()
 
 ## Description
 bar.js is a configurable, lightweight and dependency-free library providing simple and fast Bar Chart creation experience.
